@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">Android Advanced</string>
+    <string name="title_home">About Orion Team</string>
+    <string name="title_member">Our Member</string>
+    <string name="sub_title_home">Who is Orion Team?</string>
+    <string name="sub_title_home2">Our Project</string>
+    <string name="sub_title_home3">FastFixx Platform</string>
+    <string name="desc_home1">Kami adalah tim yang terbentuk untuk menyelesaikan project massive. Yang terdiri dari gabungan tim Mobile, tim Web, dan tim HCAI.</string>
+    <string name="desc_home2">Kami membuat sebuah platform penghubung bengkel dan pengendara bernama FASTFIXX. Selain itu, bengkel kami menghubungkan juga dengan montir montir profesional. Dan kami memberikan konten edukasi untuk membantu para pengendara agar lebih memahami perihal kendaraannya.</string>
     <string name="menu_nav">Home</string>
-    <string name="menu_nav2">Detail</string>
+    <string name="menu_nav2">Member</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
