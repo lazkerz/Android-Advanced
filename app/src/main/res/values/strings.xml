@@ -2,6 +2,9 @@
     <string name="app_name">Android Advanced</string>
     <string name="title_home">About Orion Team</string>
     <string name="title_member">Our Member</string>
+    <string name="Mobile">Mobile</string>
+    <string name="Web">Web</string>
+    <string name="HCAI">HCAI</string>
     <string name="sub_title_home">Who is Orion Team?</string>
     <string name="sub_title_home2">Our Project</string>
     <string name="sub_title_home3">FastFixx Platform</string>

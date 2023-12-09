@@ -51,7 +51,8 @@
             android:padding="15dp"
             android:orientation="vertical"
             android:background="@color/primary"
-            pp:layout_constraintStart_toStartOf="parent" >
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" >
 
             <TextView
                 android:layout_width="wrap_content"
@@ -64,7 +65,7 @@
                 app:layout_constraintTop_toTopOf="parent"/>
 
             <TextView
-                style="@style/MonaMedium12"
+                style="@style/MonaMedium14"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/desc_home1"
@@ -102,7 +103,7 @@
                 android:src="@drawable/logo_project" />
 
             <TextView
-                style="@style/MonaMedium12"
+                style="@style/MonaMedium14"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -115,7 +116,7 @@
                 style="@style/MonaSemiBold16"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="20dp"
                 android:text="@string/sub_title_home3"
                 android:textColor="@color/tertiary"
                 app:layout_constraintStart_toStartOf="parent" />
